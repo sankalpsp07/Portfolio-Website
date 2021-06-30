@@ -5,7 +5,7 @@ function startLoading() {
     loader.classList.add("slide-down");
     setTimeout(() => {
         loader.style.display = "none";
-    }, 4000);
+    }, 2000);
 }
 
 
